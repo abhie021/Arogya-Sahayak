@@ -45,7 +45,7 @@ train_multidisease_model.py
 
 1. **Clone the repository**
 ```bash
-git clone 
+git clone https://github.com/abhie021/Arogya-Sahayak.git
 cd <repo-name>
 ```
 
