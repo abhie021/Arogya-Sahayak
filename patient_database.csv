@@ -1,0 +1,2 @@
+PatientID,Timestamp,Age,SystolicBP,DiastolicBP,BloodSugar,BodyTemp_F,HeartRate,RiskPrediction
+Manoj,2025-09-27 13:25:09,25,120,80,7.5,98.6,75,Low Risk
