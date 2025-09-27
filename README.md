@@ -49,7 +49,7 @@ git clone https://github.com/abhie021/Arogya-Sahayak.git
 cd <repo-name>
 ```
 
-Create a virtual environment
+2. **Create a virtual environment**
 ```bash
 python -m venv venv
 # Activate the environment
@@ -59,16 +59,17 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-Install dependencies
+3. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the app
+4. **Run the app**
 ```bash
 streamlit run app.py
 ```
-Usage
+
+### Usage
 
 Open the Streamlit app in your browser.
 
@@ -78,7 +79,7 @@ Click Predict to get the risk assessment.
 
 Use the prediction to assist healthcare decisions or early interventions.
 
-Dependencies
+### Dependencies
 
 Python 3.8+
 
@@ -92,7 +93,7 @@ joblib
 
 All dependencies are listed in requirements.txt.
 
-Notes
+### Notes
 
 This AI model is assistance-only and does not replace professional medical advice.
 
@@ -100,7 +101,7 @@ Designed with rural healthcare workers in mind; minimal training required for us
 
 Ensure the input data format matches the training data for accurate predictions.
 
-Future Improvements
+### Future Improvements
 
 Integrate wearable device data for real-time monitoring.
 
@@ -108,10 +109,10 @@ Extend prediction to additional diseases such as diabetes, hypertension, and str
 
 Build a mobile-friendly interface for easier field deployment.
 
-License
+### License
 
 This project is licensed under the MIT License.
 
-Contact
+### Contact
 
-Developer: Abhiee Murkute
+Developer: Abhie Murkute
