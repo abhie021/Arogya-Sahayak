@@ -9,7 +9,6 @@
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit)](https://arogya-sahayak-gttyfdejwjs24ojkmtlrtl.streamlit.app/)
 
 
-
 ## 🌍 Problem Statement  
 In India’s rural areas, **shortage of doctors** and limited access to healthcare make **timely diagnosis** of diseases a challenge. Many patients go undiagnosed until conditions worsen.  
 
