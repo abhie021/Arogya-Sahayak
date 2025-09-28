@@ -12,13 +12,15 @@
 ## 🌍 Problem Statement  
 In India’s rural areas, **shortage of doctors** and limited access to healthcare make **timely diagnosis** of diseases a challenge. Many patients go undiagnosed until conditions worsen.  
 
-## 💡 Our Solution  
-An **AI-assisted web application** that helps in **early detection of diseases** like:  
-- 🍬 **Diabetes**  
-- 🧠 **Stroke Risk**  
-- 🤰 **Maternal Health Risks**  
+## 💡 Our Solution
 
-The system leverages **patient symptoms, medical records, and wearable data** to generate predictions that can assist **healthcare workers & patients** in making informed decisions.  
+**Arogya Sahayak** is an AI-powered web application designed to assist in early health risk assessment and patient tracking. It supports:
+
+- 🤰 **Maternal Health Risk Prediction** – Assess risk levels based on patient vitals.
+- 🩺 **General Disease Prediction** – AI-based symptom analysis for preliminary diagnosis.
+- 📊 **Patient Tracking & Dashboard** – Monitor patient history, risk distribution, and download full records.
+
+The system uses patient vitals, symptoms, and historical data to provide actionable insights for healthcare workers and patients, with multilingual support (English, Marathi, Hindi).
 
 ---
 
