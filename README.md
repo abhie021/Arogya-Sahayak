@@ -4,10 +4,10 @@
 <img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/5d18a2e6-eb04-4f26-a6ca-7aa3d4a7ebdd" />
 
 
-## 🚀 Live Demo
+## 🚀 Live Demo  
 
+[![Open in Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit)](https://arogya-sahayak-gttyfdejwjs24ojkmtlrtl.streamlit.app/)
 
-[![Open in Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit)](https://arogya-sahayak-tsjm9xsjem6ghqqtfdfqj3.streamlit.app/)
 
 
 ## 🌍 Problem Statement  
