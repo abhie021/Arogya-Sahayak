@@ -1,8 +1,8 @@
 # 🩺 AI-Based Early Disease Detection Web App  
 
----
+
 <img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/5d18a2e6-eb04-4f26-a6ca-7aa3d4a7ebdd" />
----
+
 
 ## 🚀 Live Demo
 
