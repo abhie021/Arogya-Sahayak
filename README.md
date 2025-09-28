@@ -1,6 +1,6 @@
 # 🩺 AI-Based Early Disease Detection Web App  
 
-![App Banner](<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/5d18a2e6-eb04-4f26-a6ca-7aa3d4a7ebdd" />)  
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/5d18a2e6-eb04-4f26-a6ca-7aa3d4a7ebdd" />
 
 🔗 **Live Demo on Streamlit:** [Click Here](https://your-streamlit-app-link.streamlit.app)  
 
