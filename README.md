@@ -71,13 +71,13 @@ streamlit run app.py
 
 ### Usage
 
-Open the Streamlit app in your browser.
+- Open the Streamlit app in your browser.
 
-Input patient symptoms, medical records, or relevant health parameters.
+- Input patient symptoms, medical records, or relevant health parameters.
 
-Click Predict to get the risk assessment.
+- Click Predict to get the risk assessment.
 
-Use the prediction to assist healthcare decisions or early interventions.
+- Use the prediction to assist healthcare decisions or early interventions.
 
 ### Dependencies
 
@@ -91,23 +91,23 @@ scikit-learn
 
 joblib
 
-All dependencies are listed in requirements.txt.
+- All dependencies are listed in requirements.txt.
 
 ### Notes
 
-This AI model is assistance-only and does not replace professional medical advice.
+- This AI model is assistance-only and does not replace professional medical advice.
 
-Designed with rural healthcare workers in mind; minimal training required for usage.
+- Designed with rural healthcare workers in mind; minimal training required for usage.
 
-Ensure the input data format matches the training data for accurate predictions.
+- Ensure the input data format matches the training data for accurate predictions.
 
 ### Future Improvements
 
-Integrate wearable device data for real-time monitoring.
+- Integrate wearable device data for real-time monitoring.
 
-Extend prediction to additional diseases such as diabetes, hypertension, and stroke.
+- Extend prediction to additional diseases such as diabetes, hypertension, and stroke.
 
-Build a mobile-friendly interface for easier field deployment.
+- Build a mobile-friendly interface for easier field deployment.
 
 ### License
 
@@ -115,4 +115,5 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-Developer: Abhie Murkute
+- Developer: Abhi Murkute
+- Email : murkutehemant21@gmail.com
